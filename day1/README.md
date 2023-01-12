@@ -6,4 +6,4 @@
 4. add/remove from classList - You can add or remove classes from the classList of an element from Javascript.
 5. this - this refers to the current element.
 
-<img href="./drumkit.png" alt="drum-kit">
+<img src="./drumkit.png" alt="drum-kit">
