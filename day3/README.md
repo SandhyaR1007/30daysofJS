@@ -6,4 +6,4 @@
 4. css variables - you can declare css variables as --variable-name:"variable value".
 5. filter - filter property can be used to apply various filters to an element. for example - blur, grayscale, drop-shadow etc.
 6. selecting root from js - for selecting root element from js you can use document.documentElement.
-7. setProperty method - used for setting properties.
+7. setProperty method - this method sets a new or modifies an existing CSS property in a CSS declaration block.
