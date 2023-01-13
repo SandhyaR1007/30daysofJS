@@ -7,3 +7,5 @@
 5. filter - filter property can be used to apply various filters to an element. for example - blur, grayscale, drop-shadow etc.
 6. selecting root from js - for selecting root element from js you can use document.documentElement.
 7. setProperty method - used for setting properties.
+
+<img src="./css-vars.png" alt="css-vars">
